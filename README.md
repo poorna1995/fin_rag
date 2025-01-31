@@ -1,6 +1,6 @@
 <!-- ![alt text](assests/main.png) -->
 
-# Financial Report Query Interface
+# Intelligent RAG System for Financial Report Analysis
 
 This project develops a Retrieval-Augmented Generation (RAG) system for financial reports. The interface allows users to upload PDF documents and ask queries about the financial data. It facilitates real-time queries and displays retrieved information alongside generated responses.
 
