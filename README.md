@@ -85,7 +85,7 @@ The **LLM** (Large Language Model) is used to generate a comprehensive response,
 Clone the GitHub repository to your local machine:
 
 ```bash
-git clone https://github.com/poorna1995/finbot.git
+git clone https://github.com/poorna1995/fin_rag.git
 ```
 
 ### Step 2: Create an .env File
@@ -103,13 +103,13 @@ UNSTRUCTURED_API_URL=YOUR_UNSTRUCTURED_API_URL
 Build the Docker image, which also handles vector database indexing:
 
 ```bash
-docker build -t finbot .
+docker build -t fin_rag .
 ```
 
 ### Step 4: Run Docker
 
 ```bash
-docker run -p 8502:8502 finbot
+docker run -p 8502:8502 fin_rag
 ```
 
 ### Step 5: Testing Methods
