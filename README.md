@@ -1,8 +1,8 @@
-![alt text](assests/main.png)
+<!-- ![alt text](assests/main.png) -->
 
-# FinBot: Financial Report Query Interface
+# Financial Report Query Interface
 
-**FinBot** is an interface for financial reports that allows users to upload PDF documents and ask queries about the financial data. The interface facilitates real-time queries and displays retrieved information alongside generated responses.
+This project develops a Retrieval-Augmented Generation (RAG) system for financial reports. The interface allows users to upload PDF documents and ask queries about the financial data. It facilitates real-time queries and displays retrieved information alongside generated responses.
 
 ## Data Requirement
 
