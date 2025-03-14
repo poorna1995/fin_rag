@@ -140,6 +140,4 @@ Note: Already tested. Check the response in the test.ipynb
 Run:
 cd src
 python testing.py
-
-Note: Already tested. Check the response in test_response.txt.
 ```
